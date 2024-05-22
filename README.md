@@ -1,8 +1,8 @@
-# THICC ANIME GIRL/CHICK
+# BEACH ANIME GIRL/CHICK
 
 ![ERROR LOADING](https://avatars.githubusercontent.com/u/123834579?v=4)
 
-Thicc Anime Girl bot is a bot that has logging, utility commands, fun commands, and Unbelievaboat API Commands (Discord only). The bot is available on Discord, Guilded, and Revolt.
+Beach Anime Girl bot is a bot that has logging, utility commands, fun commands, and Unbelievaboat API Commands (Discord only). The bot is available on Discord, Guilded, and Revolt.
 
 Prefix for the bot (On Discord/Guilded/Revolt) is: a!
 
@@ -12,8 +12,8 @@ Prefix for the bot (On Discord/Guilded/Revolt) is: a!
 
 ### My Social Media
 
-[Youtube Channel](https://www.youtube.com/channel/UCl9UFkRPIH7Aeov-GTPbJ0w) | [Twitter Account](https://twitter.com/ThiccAnimeGirll) | [Gamejolt Account](https://gamejolt.com/@ThiccAnimeGirl)
+[Youtube Channel](https://www.youtube.com/channel/UC2-_FaTzAK77eFpSOvsVvFQ) | [Twitter Account](https://twitter.com/BeachAnimeGirl) | [Gamejolt Account](https://gamejolt.com/@BeachAnimeGirl) | [Itch.io account](https://beachanimegirl.itch.io)
 
-Provided by The Idiot Creature Hater / Idiot Creature Hater Studios 2023
+You can follow us on Playstation Network: BeachAnimeGirl
 
-[Idiot Creature Hater Website](https://idiotcreaturehater.glitch.me)
+Provided by The Idiot Creature Hater / Idiot Creature Hater Studios 2023 [Idiot Creature Hater Website](https://idiotcreaturehater.glitch.me)
